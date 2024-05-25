@@ -15,7 +15,7 @@ Backtesting Results:
 - PSR ~ 3.317%
 - Return ~ -2.22 %
 
-Rough year for Algorithm Trading Bots, the fluctuations in these 2 years and 
+Rough year for Algorithm Trading Bots, the fluctuations in these 2 years and intraday strategies should be solidified with strict parameters.
 
 
 
